@@ -1,0 +1,10 @@
+Package: com.aerialx.ishshit
+Name: iSHSHit
+Version: 1.2.7b
+Architecture: iphoneos-arm
+Description: Easily backup firmware SHSH blobs!
+Maintainer: iAperion <aperion@hotmail.ca>
+Author: Aaron Lindsay <aaron@aaronlindsay.com>
+Section: Utilities
+Icon: file:///Applications/iSHSHit.app/Icon.png
+dev: aerialx

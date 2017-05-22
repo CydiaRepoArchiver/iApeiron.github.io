@@ -1,0 +1,9 @@
+Package: com.iApeiron.savethemblobs
+Name: Savethemblobs
+Version: 1.0b1
+Architecture: iphoneos-arm
+Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
+Maintainer: iAperion <aperion@hotmail.ca>
+Author: iAperion <aperion@hotmail.ca>
+Section: Utilities
+
