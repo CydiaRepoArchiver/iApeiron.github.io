@@ -243,10 +243,26 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
+		<firmware version="9.3b1" build="13E5181d" />
+		<firmware version="9.3b1.1" build="13E5181f" />
+		<firmware version="9.3b2" build="13E5191d" />
+		<firmware version="9.3b3" build="13E5200d" />
+		<firmware version="9.3b4" build="13E5214d" />
+		<firmware version="9.3b5" build="13E5225a" />
+		<firmware version="9.3b6" build="13E5231a" />
+		<firmware version="9.3b7" build="13E5233a" />
 		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
+		<firmware version="9.3.2b1" build="113F51a" />
+		<firmware version="9.3.2b2" build="113F61" />
+		<firmware version="9.3.2b3" build="113F65" />
+		<firmware version="9.3.2b4" build="113F68" />
 		<firmware version="9.3.2" build="113F69" />
+		<firmware version="9.3.3b1" build="13G12" />
+		<firmware version="9.3.3b2" build="13G21" />
+		<firmware version="9.3.3b3" build="13G29" />
+		<firmware version="9.3.3b4" build="13G33" />
 		<firmware version="9.3.3" build="13G34" />
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
@@ -292,11 +308,31 @@
 		<firmware version="9.3.3" build="13G34" />
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
+		<firmware version="10.0b1" build="14A5261v" />
+		<firmware version="10.0b2" build="14A5297c" />
+		<firmware version="10.0b3" build="14A5309d" />
+		<firmware version="10.0b4" build="14A5322e" />
+		<firmware version="10.0b5" build="14A5335b" />
+		<firmware version="10.0b6" build="14A5341a" />
+		<firmware version="10.0b7" build="14A5345a" />
+		<firmware version="10.0b8" build="14A5346a" />
 		<firmware version="10.0.1" build="14A403" />
 		<firmware version="10.0.2" build="14A456" />
+		<firmware version="10.1b1" build="14B55c" />
+		<firmware version="10.1b2" build="14B67" />
+		<firmware version="10.1b3" build="14B71" />
 		<firmware version="10.1" build="14B72" />
 		<firmware version="10.1.1" build="14B150" />
+		<firmware version="10.2b1" build="14C5062e" />
+		<firmware version="10.2b2" build="14C5069c" />
+		<firmware version="10.2b3" build="14C507b" />
+		<firmware version="10.2b4" build="14C82" />
+		<firmware version="10.2b5" build="14C89" />
+		<firmware version="10.2b6" build="14C91" />
 		<firmware version="10.2" build="14C92" />
+		<firmware version="10.2.1b1" build="14D10" />
+		<firmware version="10.2.1b2" build="14D15" />
+		<firmware version="10.2.1b3" build="14D23" />
 		<firmware version="10.2.1" build="14D27" />
 		<firmware version="10.3" build="14E277" />
 	</hardware>
@@ -334,18 +370,54 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
+		<firmware version="9.3b1" build="13E5181d" />
+		<firmware version="9.3b1.1" build="13E5181f" />
+		<firmware version="9.3b2" build="13E5191d" />
+		<firmware version="9.3b3" build="13E5200d" />
+		<firmware version="9.3b4" build="13E5214d" />
+		<firmware version="9.3b5" build="13E5225a" />
+		<firmware version="9.3b6" build="13E5231a" />
+		<firmware version="9.3b7" build="13E5233a" />
 		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
+		<firmware version="9.3.2b1" build="113F51a" />
+		<firmware version="9.3.2b2" build="113F61" />
+		<firmware version="9.3.2b3" build="113F65" />
+		<firmware version="9.3.2b4" build="113F68" />
 		<firmware version="9.3.2" build="113F69" />
+		<firmware version="9.3.3b1" build="13G12" />
+		<firmware version="9.3.3b2" build="13G21" />
+		<firmware version="9.3.3b3" build="13G29" />
+		<firmware version="9.3.3b4" build="13G33" />
 		<firmware version="9.3.3" build="13G34" />
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
+		<firmware version="10.0b1" build="14A5261v" />
+		<firmware version="10.0b2" build="14A5297c" />
+		<firmware version="10.0b3" build="14A5309d" />
+		<firmware version="10.0b4" build="14A5322e" />
+		<firmware version="10.0b5" build="14A5335b" />
+		<firmware version="10.0b6" build="14A5341a" />
+		<firmware version="10.0b7" build="14A5345a" />
+		<firmware version="10.0b8" build="14A5346a" />
 		<firmware version="10.0.1" build="14A403" />
 		<firmware version="10.0.2" build="14A456" />
+		<firmware version="10.1b1" build="14B55c" />
+		<firmware version="10.1b2" build="14B67" />
+		<firmware version="10.1b3" build="14B71" />
 		<firmware version="10.1" build="14B72" />
 		<firmware version="10.1.1" build="14B150" />
+		<firmware version="10.2b1" build="14C5062e" />
+		<firmware version="10.2b2" build="14C5069c" />
+		<firmware version="10.2b3" build="14C507b" />
+		<firmware version="10.2b4" build="14C82" />
+		<firmware version="10.2b5" build="14C89" />
+		<firmware version="10.2b6" build="14C91" />
 		<firmware version="10.2" build="14C92" />
+		<firmware version="10.2.1b1" build="14D10" />
+		<firmware version="10.2.1b2" build="14D15" />
+		<firmware version="10.2.1b3" build="14D23" />
 		<firmware version="10.2.1" build="14D27" />
 		<firmware version="10.3" build="14E277" />
 	</hardware>
@@ -383,11 +455,31 @@
 		<firmware version="9.3.3" build="13G34" />
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
+		<firmware version="10.0b1" build="14A5261v" />
+		<firmware version="10.0b2" build="14A5297c" />
+		<firmware version="10.0b3" build="14A5309d" />
+		<firmware version="10.0b4" build="14A5322e" />
+		<firmware version="10.0b5" build="14A5335b" />
+		<firmware version="10.0b6" build="14A5341a" />
+		<firmware version="10.0b7" build="14A5345a" />
+		<firmware version="10.0b8" build="14A5346a" />
 		<firmware version="10.0.1" build="14A403" />
 		<firmware version="10.0.2" build="14A456" />
+		<firmware version="10.1b1" build="14B55c" />
+		<firmware version="10.1b2" build="14B67" />
+		<firmware version="10.1b3" build="14B71" />
 		<firmware version="10.1" build="14B72" />
 		<firmware version="10.1.1" build="14B150" />
+		<firmware version="10.2b1" build="14C5062e" />
+		<firmware version="10.2b2" build="14C5069c" />
+		<firmware version="10.2b3" build="14C507b" />
+		<firmware version="10.2b4" build="14C82" />
+		<firmware version="10.2b5" build="14C89" />
+		<firmware version="10.2b6" build="14C91" />
 		<firmware version="10.2" build="14C92" />
+		<firmware version="10.2.1b1" build="14D10" />
+		<firmware version="10.2.1b2" build="14D15" />
+		<firmware version="10.2.1b3" build="14D23" />
 		<firmware version="10.2.1" build="14D27" />
 		<firmware version="10.3" build="14E277" />
 	</hardware>
@@ -425,11 +517,31 @@
 		<firmware version="9.3.3" build="13G34" />
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
+		<firmware version="10.0b1" build="14A5261v" />
+		<firmware version="10.0b2" build="14A5297c" />
+		<firmware version="10.0b3" build="14A5309d" />
+		<firmware version="10.0b4" build="14A5322e" />
+		<firmware version="10.0b5" build="14A5335b" />
+		<firmware version="10.0b6" build="14A5341a" />
+		<firmware version="10.0b7" build="14A5345a" />
+		<firmware version="10.0b8" build="14A5346a" />
 		<firmware version="10.0.1" build="14A403" />
 		<firmware version="10.0.2" build="14A456" />
+		<firmware version="10.1b1" build="14B55c" />
+		<firmware version="10.1b2" build="14B67" />
+		<firmware version="10.1b3" build="14B71" />
 		<firmware version="10.1" build="14B72" />
 		<firmware version="10.1.1" build="14B150" />
+		<firmware version="10.2b1" build="14C5062e" />
+		<firmware version="10.2b2" build="14C5069c" />
+		<firmware version="10.2b3" build="14C507b" />
+		<firmware version="10.2b4" build="14C82" />
+		<firmware version="10.2b5" build="14C89" />
+		<firmware version="10.2b6" build="14C91" />
 		<firmware version="10.2" build="14C92" />
+		<firmware version="10.2.1b1" build="14D10" />
+		<firmware version="10.2.1b2" build="14D15" />
+		<firmware version="10.2.1b3" build="14D23" />
 		<firmware version="10.2.1" build="14D27" />
 		<firmware version="10.3" build="14E277" />
 	</hardware>
@@ -451,7 +563,7 @@
 		<firmware version="5.1" build="9B176" />
 		<firmware version="5.1.1" build="9B206" />
 	</hardware>
-	
+
 	<hardware name="iPad2,1" model="K93AP" description="iPad2,1 K93AP">
 		<firmware version="4.3" build="8F191" />
 		<firmware version="4.3.1" build="8G4" />
@@ -493,15 +605,31 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
+		<firmware version="9.3b1" build="13E5181d" />
+		<firmware version="9.3b1.1" build="13E5181f" />
+		<firmware version="9.3b2" build="13E5191d" />
+		<firmware version="9.3b3" build="13E5200d" />
+		<firmware version="9.3b4" build="13E5214d" />
+		<firmware version="9.3b5" build="13E5225a" />
+		<firmware version="9.3b6" build="13E5231a" />
+		<firmware version="9.3b7" build="13E5233a" />
 		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
+		<firmware version="9.3.2b1" build="113F51a" />
+		<firmware version="9.3.2b2" build="113F61" />
+		<firmware version="9.3.2b3" build="113F65" />
+		<firmware version="9.3.2b4" build="113F68" />
 		<firmware version="9.3.2" build="113F69" />
+		<firmware version="9.3.3b1" build="13G12" />
+		<firmware version="9.3.3b2" build="13G21" />
+		<firmware version="9.3.3b3" build="13G29" />
+		<firmware version="9.3.3b4" build="13G33" />
 		<firmware version="9.3.3" build="13G34" />
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
 	</hardware>
-	
+
 	<hardware name="iPad2,2" model="K94AP" description="iPad2,2 K94AP">
 		<firmware version="4.3" build="8F191" />
 		<firmware version="4.3.1" build="8G4" />
@@ -551,7 +679,7 @@
 		<firmware version="9.3.4" build="13G35" />
 		<firmware version="9.3.5" build="13G36" />
 	</hardware>
-	
+
 	<hardware name="iPad2,3" model="K95AP" description="iPad2,3 K95AP">
 		<firmware version="4.3" build="8F191" />
 		<firmware version="4.3.1" build="8G4" />
