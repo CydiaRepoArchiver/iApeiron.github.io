@@ -86,7 +86,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -251,7 +250,6 @@
 		<firmware version="9.3b5" build="13E5225a" />
 		<firmware version="9.3b6" build="13E5231a" />
 		<firmware version="9.3b7" build="13E5233a" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2b1" build="113F51a" />
@@ -301,7 +299,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -378,7 +375,6 @@
 		<firmware version="9.3b5" build="13E5225a" />
 		<firmware version="9.3b6" build="13E5231a" />
 		<firmware version="9.3b7" build="13E5233a" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2b1" build="113F51a" />
@@ -448,7 +444,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -510,7 +505,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -613,7 +607,6 @@
 		<firmware version="9.3b5" build="13E5225a" />
 		<firmware version="9.3b6" build="13E5231a" />
 		<firmware version="9.3b7" build="13E5233a" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2b1" build="113F51a" />
@@ -671,7 +664,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E236" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -721,7 +713,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -763,7 +754,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -804,7 +794,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -844,7 +833,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -884,7 +872,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -926,7 +913,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -968,7 +954,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -1010,7 +995,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -1049,7 +1033,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -1094,7 +1077,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
@@ -1139,7 +1121,6 @@
 		<firmware version="9.1" build="13B143" />
 		<firmware version="9.2" build="13C75" />
 		<firmware version="9.2.1" build="13D15" />
-		<firmware version="9.3" build="13E233" />
 		<firmware version="9.3" build="13E237" />
 		<firmware version="9.3.1" build="13E238" />
 		<firmware version="9.3.2" build="113F69" />
