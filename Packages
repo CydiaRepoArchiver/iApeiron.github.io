@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iAperion <aperion@hotmail.ca>
 Filename: ./debs/com.aerialx.ishshit_1.2.8b2_iphoneos-arm.deb
 Size: 4192638
-MD5sum: 6474675350ccbc4a451ff437f469d12c
-SHA1: 8211c04fee21193dfb24f275a2137a6c53028ec8
-SHA256: 016649647f3faa09619821afb02419214494441f610dc698b05f9208ccbfe646
+MD5sum: 085afd5833f270f361a1ca78649e11be
+SHA1: 909bc71f0655456b93fa138838cb0827cb7313c6
+SHA256: 1f49c9751e2c6b704557f43c14cf38d6f648823b3a96bf851d9a1c10311ee1cd
 Section: Utilities
 Description: Easily backup firmware SHSH blobs!
 Author: Aaron Lindsay <aaron@aaronlindsay.com>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: iAperion <aperion@hotmail.ca>
 Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
 Size: 24624868
-MD5sum: a3bd70eb2c765ea9d8870b75e8ec2342
-SHA1: c4db5a9dcd61144e26717684c18a1b51b410335d
-SHA256: 46aecfce26c394338dff96939af41f5eb2c7492803780a0a4efa9826e3445fc9
+MD5sum: 8f9cb12ea469d2e5d826e9a9f68666fe
+SHA1: 82c38de04c66e8870293b77276d7f5acfb9b146f
+SHA256: e2ac757a966213f508774994349916bfaa97f983a867f0dc6d3f29a01edf0fd9
 Section: Utilities
 Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
 Author: iAperion <aperion@hotmail.ca>
@@ -34,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: iAperion <aperion@hotmail.ca>
 Depends: python
 Filename: ./debs/setuptools_0.6c11_iphoneos-arm.deb
-Size: 1638232
-MD5sum: 3442b034781d0cb4341ec3ff61f9fdae
-SHA1: cbee99a69b8d15aa43d367d64b890d3d0e64187e
-SHA256: 95ab509fe145511a29f44e1c3fdd04164a137d16ed2ddc49aa70eee3e56e74f4
+Size: 1638226
+MD5sum: 185991b83b3720ce4669c5260bfa0bff
+SHA1: 557192b1afdb7b68108f82ee4509d15c67f2f6c7
+SHA256: 1d1c09cffa2e090207c6a56e80b2a0b4601554db97b7dfc36713d7cd891741a2
 Section: Packaging
 Description: package manager for Python modules
 Name: Setup Tools
