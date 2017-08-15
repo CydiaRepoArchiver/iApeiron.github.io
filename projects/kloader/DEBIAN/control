@@ -1,11 +1,11 @@
 Package: kloader
 Name: kloader
-Version: 1.0.1
+Version: 1.0.2
 Section: System
 Depends: firmware (>= 4.0)
-Conflicts: cy+cpu.arm64
-Description: NEW IMPROVED KLOADER
+Description:  NEW IMPROVED KLOADER
 	armv7 support for iOS 4.0-9.3.5 (requires tfp0 kernel patch)
+	arm64 support for iOS 7.0-8.4.1 (requires tfp0 kernel patch and patched LLB/iBoot/iBSS/iBEC)
 	will automatically wake up device after 2 seconds (no button press required, should work 99.9% of the time)
 Priority: optional
 Architecture: iphoneos-arm
