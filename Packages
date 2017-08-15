@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iAperion <aperion@hotmail.ca>
 Filename: ./debs/com.aerialx.ishshit_1.2.8b2_iphoneos-arm.deb
 Size: 4192638
-MD5sum: 6cc0ffd663a71b384a5249fcd6181e61
-SHA1: e3f8eb6a97344dd00f9cabbe7db5686baf4f1363
-SHA256: eb1cedd90f7495aff637750c61387f3b101fd51c28d32c6d3d4c003e98fada9d
+MD5sum: 38130f6e4d79caff4027cbb4f356a554
+SHA1: 1ce12d5ba8cd868649d15db3ead170c9136b1ba8
+SHA256: c995bd5aa134b1544357a79216306a50cdc412367e7a11846e3712b2095f05da
 Section: Utilities
 Description: Easily backup firmware SHSH blobs!
 Author: Aaron Lindsay <aaron@aaronlindsay.com>
@@ -19,14 +19,34 @@ Version: 1.0b1
 Architecture: iphoneos-arm
 Maintainer: iAperion <aperion@hotmail.ca>
 Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
-Size: 24624868
-MD5sum: 9715520ccebe29837c4ceda500fc27be
-SHA1: 337978063b76addab66cc29d87022d80dc1b3e7e
-SHA256: 2ed868ceb3474c2958ca285e2800dea4f450c06deb91993ba7e0989fce835a9b
+Size: 24624910
+MD5sum: 3288f2b80e3f3f32876335fa97848560
+SHA1: 0869b8e493d5d220abee85155a4fff06ef454037
+SHA256: 70a3f65d6330160032d8241bbd4488b3220c00602c7b1dd416df7dbc0d1b0f10
 Section: Utilities
 Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
 Author: iAperion <aperion@hotmail.ca>
 Name: Savethemblobs
+
+Package: kloader
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: axi0mX
+Depends: firmware (>= 4.0)
+Conflicts: cy+cpu.arm64
+Filename: ./debs/kloader_1.0.1_iphoneos-arm.deb
+Size: 9552
+MD5sum: 2a9df29e89425502f9fae0536ceaeb45
+SHA1: c70f527461090672bf4b8a8f1aec43a5f4fde867
+SHA256: 6336fa328a38d5fd7b1a426bfeda92b4b76846d4407f113ed2b11bdf0d9dda82
+Section: System
+Priority: optional
+Homepage: https://github.com/axi0mX/ios-kexec-utils/blob/master/kloader.c
+Description: NEW IMPROVED KLOADER
+ armv7 support for iOS 4.0-9.3.5 (requires tfp0 kernel patch)
+ will automatically wake up device after 2 seconds (no button press required, should work 99.9% of the time)
+Author: winocm, xerub, axi0mX
+Name: kloader
 
 Package: setuptools
 Version: 0.6c11
@@ -35,9 +55,9 @@ Maintainer: iAperion <aperion@hotmail.ca>
 Depends: python
 Filename: ./debs/setuptools_0.6c11_iphoneos-arm.deb
 Size: 1640236
-MD5sum: 6258c3eb2da09c5c587062c3072cb47e
-SHA1: 81a10b8966e6d2dc16b2bb1b13c589406d38e61d
-SHA256: ccc2a6250baa92bb731c9f4096032c7b9322986efa43f314ab509e8c277c0620
+MD5sum: c36b72775dbac5798fb6cff143509c0e
+SHA1: 2bf90c12e6dbad7128fa12ae5c70dfad2b6e6777
+SHA256: 550b2ac925698b4deb0cfdc1ced570a864cdd60d3b91076e9b8e7db5e1886111
 Section: Packaging
 Description: package manager for Python modules
 Name: Setup Tools
